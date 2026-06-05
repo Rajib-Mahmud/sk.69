@@ -102,11 +102,11 @@ def banr():
 numberoftimes = "No. Of Ips Generated >>>"
 # SECOND LINE
 madeby = f"""
-                                                                                Made By @Shreyas_Apoc
+                                                                                
 
-                                                                                Telegram Channel - @Apoccm
+                                                                                
 
-                                                                                Telegram Group - @Apoccmchat
+                                                                               
 
 """
 
